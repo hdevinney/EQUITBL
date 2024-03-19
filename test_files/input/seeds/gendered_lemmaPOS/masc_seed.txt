@@ -1,0 +1,10 @@
+hePRP
+himselfPRP
+manNN
+boyNN
+guyNN
+maleNN
+maleJJ
+masculineJJ
+mrNNP
+sirNNP

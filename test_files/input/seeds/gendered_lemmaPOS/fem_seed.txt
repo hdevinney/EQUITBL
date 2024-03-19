@@ -1,0 +1,11 @@
+shePRP
+womanNN
+girlNN
+ladyNN
+femaleNN
+femaleJJ
+feminineJJ
+msNNP
+mrsNNP
+missNNP
+madamNNP

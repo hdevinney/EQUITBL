@@ -1,0 +1,14 @@
+theyPRP
+zePRP
+zeNN
+xePRP
+xeNN
+personNN
+childNN
+kidNN
+neutralJJ
+nonbinaryJJ
+nonbinaryNN
+enbyNN
+genderqueerJJ
+mxNNP
