@@ -5,7 +5,7 @@ The EQUITBL package provides support for a mixed-methods approach to analyzing b
 
 Topic modeling allows us to identify underlying patterns in a corpus, and semi-supervised variants let us find patterns (such as themes and closely-associated documents) specific to particular groups.
 
-The a more thorough user guide is available here (forthcoming), which includes details for the qualitative analysis parts of the method.
+The a more thorough user guide is available here (`EQUITBL_instructions.pdf`), which includes details for the qualitative analysis parts of the method.
 
 ## Dependencies
 
